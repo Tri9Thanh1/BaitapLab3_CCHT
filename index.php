@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="author" content="luongtrithanh" />
     <link href="/1711061849_LuongTriThanh_Lab1/site.css" rel="stylesheet" />
-    <title>Xếp loại kết quả tuyển sinh_HaiDo</title>
+    <title>Xếp loại kết quả tuyển sinh_HaiDo_123</title>
 </head>
 <body>
     <div id="wrapper">
